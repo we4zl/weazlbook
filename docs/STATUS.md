@@ -7,7 +7,7 @@ slicer projects. **The complete hardware handoff is not yet accepted.**
 
 | Area | Evidence | State |
 |---|---|---|
-| R04 inputs | Three originals hashed; supplied JSON/source/research and approval PDF inspected | Preserved |
+| R04 inputs | Three originals hashed; supplied JSON/source/research and approval PDF inspected | Historical inputs removed from current tree |
 | Browser simulator | HTTP200; Chromium checks page turn, size change, named bookmark, reload, delete and restoration; no JS errors/mobile overflow | Running locally |
 | Neuromancer | Desktop import:2636 blocks,984 screens at24px; native import:32 spine items, host runtime recorded | Host tested; book not redistributed |
 | Desktop reading/state |11 pytest cases, including interrupted slot writes and independent book identities | Implemented/tested |

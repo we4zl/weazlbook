@@ -1,6 +1,6 @@
 # R05 execution record
 
-Preserve the R04 archive and extracted baseline unchanged. R05 is an engineering
+The current tree contains the R05 design and the fonts used by its build. R05 is an engineering
 prototype until the evidence register is closed; no hardware is known to be connected.
 
 1. Reconcile R04, archive sources, establish tools and measurement gates.
