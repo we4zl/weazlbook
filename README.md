@@ -61,3 +61,7 @@ Status   : Engineering prototype. Hardware validation pending.
 The editable root [`file_id.diz`](file_id.diz) holds your reader name, contact details and "if lost" instructions. Open it from the device menu; edit it with a text editor over USB. A Nuke removes that personal information too.
 
 New project code and parametric CAD are MIT licensed. Supplied R04 assets retain their original rights; IBM Plex Mono uses the SIL Open Font License. See [dependency and license notices](docs/DEPENDENCIES.md). No rights to redistribute imported books are granted.
+
+## WEAZL and WE4ZL branding
+
+Forking or reusing code does not grant permission to brand or market your own product with the WEAZL™ or WE4ZL™ wordmarks or the weazl head logo. See the [trademark and artwork notice](TRADEMARKS.md).
